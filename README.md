@@ -1,3 +1,14 @@
+<div>
+  <h2>Demo: </h2><a target="_blank" href="https://twitter-clone-765e2.web.app/">https://twitter-clone-765e2.web.app/</a>
+</div>
+</br>
+
+
+<div>
+  <img src="https://react-projects-somanath.netlify.app/img/twitter.png" />
+</div>
+</br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
